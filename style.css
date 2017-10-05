@@ -1,0 +1,158 @@
+body{
+	font-family: PT Serif;
+}
+h1{
+	font-weight: bold;
+	text-align: center;
+}
+.buttons{
+	text-align: center;
+}
+.btn{
+	margin-top: 30px;
+	margin-right: 10px;
+}
+#aliceblue{
+	background-color: #f0f8ff;
+}
+#antiquewhite{
+	background-color: #faebd7;
+}
+#aqua{
+	background-color: #00ffff;
+}
+#aquamarine{
+	background-color: #7fffd4;
+}
+#azure{
+	background-color: #f0ffff;
+}
+#beige{
+	background-color: #f5f5dc;
+}
+#bisque{
+	background-color: #ffe4c4;
+}
+#blanchedalmond{
+	background-color: #ffebcd;
+}
+#blueviolet{
+	background-color: #8a2be2;
+}
+#burlywood{
+	background-color: #deb887;
+}
+#cadetblue{
+	background-color: #5f9ea0;
+}
+#chartreuse{
+	background-color: #7fff00;
+}
+#chocolate{
+	background-color: #d2691e;
+}
+#coral{
+	background-color: #ff7f50;
+}
+#cornflowerblue{
+	background-color: #6495ed;
+}
+#cornsilk{
+	background-color: #fff8dc;
+}
+#crimson{
+	background-color: #dc143c;
+}
+#cyan{
+	background-color: #00ffff;
+}
+#darkcyan{
+	background-color: #008b8b;
+}
+#deeppink{
+	background-color: #ff1493;
+}
+#skyblue{
+	background-color: #00bfff;
+}
+#floralwhite{
+	background-color: #fffaf0;
+}
+#fuchsia{
+	background-color: #ff00ff;
+}
+#gainsboro{
+	background-color: #dcdcdc;
+}
+#gold{
+	background-color: #ffd700;
+}
+#goldenrod{
+	background-color: #daa520;
+}
+#greenyellow{
+	background-color: #adff2f;
+}
+#honeydew{
+	background-color: #f0fff0;
+}
+#hotpink{
+	background-color: #ff69b4;
+}
+#indianred{
+	background-color: #cd5c5c;
+}
+#khaki{
+	background-color: #f0e68c;
+}
+#lavender{
+	background-color: #e6e6fa;
+}
+#lavenderblush{
+	background-color: #fff0f5;
+}
+#lawngreen{
+	background-color: #7cfc00;
+}
+#lemonchiffon{
+	background-color: #fffacd;
+}
+#lightblue{
+	background-color: #add8e6;
+}
+#lightgreen{
+	background-color: #90ee90;
+}
+#lightpink{
+	background-color: #ffb6c1;
+}
+#orange{
+	background-color: #ffa500;
+}
+#peru{
+	background-color: #cd853f;
+}
+#pink{
+	background-color: #ffc0cb;
+}
+#plum{
+	background-color: #dda0dd;
+}
+#red{
+	background-color: #ff0000;
+}
+#royalblue{
+	background-color: #4169e1;
+}
+#salmon{
+	background-color: #fa8072;
+}
+#sandybrown{
+	background-color: #f4a460;
+}
+#seagreen{
+	background-color: #2e8b57;
+}
+#silver{
+	background-color: #c0c0c0;
+}
